@@ -1,1 +1,1 @@
-local x = "FirstKey"
+FirstKey
